@@ -1,1 +1,1 @@
-# hashcodes2
+# hashcodes task2 (landing page)
